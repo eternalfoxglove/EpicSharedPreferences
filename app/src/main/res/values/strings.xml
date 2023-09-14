@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Epic Shared Preferences</string>
+    <string name="changed_font_size_message">Font size changed to 1%d SP</string>
+    <string name="month">MONTH</string>
+    <string name="day">DAY</string>
+    <string name="good_things">Good things done today</string>
+    <string name="good_happenings">Good happenings today</string>
+    <string name="count_display">%1%d</string>
+</resources>
